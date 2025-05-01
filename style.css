@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ECF0F1;
+    color: #2C3E50;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #1B3B5F;
+    color: #ECF0F1;
+    padding: 20px;
+    text-align: center;
+}
+.logo {
+    max-width: 150px;
+}
+main {
+    padding: 20px;
+}
+.faq-item {
+    margin-bottom: 15px;
+}
+.newsletter {
+    margin-top: 40px;
+}
+footer {
+    background-color: #2C3E50;
+    color: #ECF0F1;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+}
