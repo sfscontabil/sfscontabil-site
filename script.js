@@ -1,2 +1,1 @@
-// JavaScript básico de exemplo
-console.log('Site da SFS Contábil carregado com sucesso');
+console.log('Site SFS Contábil carregado.');
