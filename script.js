@@ -1,1 +1,1 @@
-console.log('Site SFS Contábil carregado.');
+console.log("SFS Contábil – Panorâmico ativo");
